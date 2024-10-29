@@ -1,2 +1,2 @@
-# day01-README.md
+# Day01-README.md
 100-days-of-code-python
